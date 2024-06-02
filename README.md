@@ -1,4 +1,4 @@
-<h1 align="center">Hey Everyone I'm Madhu👋</h1>
+<h1 align="center">Hey Everyone! I'm Madhu👋</h1>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=madhukomire.madhukomire&" />
@@ -25,7 +25,7 @@
   - 📚 I'm currently learning Data Science<br>
   - 👀 I’m interested in IT Job Roles<br>
   - 👯 I’m looking to collaborate on Python Projects<br>
-  - 📫 How to reach me: madhukomire86@gmail.com
+  - 📫 How to reach me: <a href="mailto:madhukomire86@gmail.com">madhukomire86@gmail.com</a>
 </p>
 
 <h3 align="left">🛠 Languages and Tools</h3>
@@ -59,6 +59,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode logo" />
 </div>
+
 
 <!---
 madhukomire/madhukomire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
