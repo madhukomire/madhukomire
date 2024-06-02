@@ -28,7 +28,7 @@
   - 📫 How to reach me: madhukomire86@gmail.com
 </p>
 
-<h3 align="left">🛠 Language and Tools</h3>
+<h3 align="left">🛠 Languages and Tools</h3>
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python logo" />
