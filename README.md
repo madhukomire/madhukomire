@@ -1,5 +1,7 @@
 <h1 align="center">Hey Everyone! I'm Madhu👋</h1>
 
+</p>
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=madhukomire.madhukomire&" />
 </div>
@@ -26,8 +28,8 @@
   - 👀 I’m interested in IT Job Roles<br>
   - 👯 I’m looking to collaborate on Python Projects<br>
   - 📫 How to reach me: <a href="mailto:madhukomire86@gmail.com">madhukomire86@gmail.com</a>
+  <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 </p>
-
 <h3 align="left">🛠 Languages and Tools</h3>
 
 <div align="left">
@@ -51,7 +53,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/oracle/F80000" height="40" alt="Oracle logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda logo" />
   <img width="12" />
