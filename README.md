@@ -21,7 +21,7 @@
   </a>
 </div>
 
-<h5 align="center">A Python Developer, Django Developer, and Data Analyst</h5>
+<h5 align="center">An Python Developer, An Django Developer, and Data Analyst</h5>
 
 <p align="left">
   - 📚 I'm currently learning Data Science<br>
