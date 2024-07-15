@@ -39,16 +39,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5 logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3 logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="Bootstrap logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="40" alt="Django logo" />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="Git logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo" />
