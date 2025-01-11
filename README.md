@@ -7,7 +7,8 @@
 </head>
 <body>
 
-<h1 align="center">Hey Everyone! I'm Madhu👋</h1>
+<h1 align="center">Hey Everyone! 
+ I'm Madhu<img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="29px"></h1>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=madhukomire.madhukomire&" />
@@ -28,7 +29,7 @@
   </a>
 </div>
 
-<h5 align="center">Data Science Enthusiast | Python Developer | Machine Learning Practitioner | NLP & Big Data Enthusiast</h5>
+<h5 align="center">Data Scientist | Python Developer | Machine Learning & Artificial Intelligence Practitioner | NLP & Big Data Enthusiast</h5>
 
 <p align="left">
   - 📚 I'm currently learning Data Science<br>
