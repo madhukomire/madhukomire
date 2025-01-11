@@ -30,14 +30,15 @@
 </div>
 
 <h5 align="center">Data Scientist | Python Developer | Machine Learning & Artificial Intelligence Practitioner | NLP & Big Data Enthusiast</h5>
-
-<p align="left">
-  - 📚 I'm currently learning Data Science<br>
-  - 👀 I’m interested in IT Job Roles<br>
-  - 👯 I’m looking to collaborate on Python Projects<br>
-  - 📫 How to reach me: <a href="mailto:madhukomire86@gmail.com">madhukomire86@gmail.com</a>
-  <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-</p>
+<div>
+  <ul>
+    <li>📚 I'm currently learning Data Science</li>
+    <li>👀 I’m interested in Data Science and AI Job roles</li>
+    <li>👯 I’m looking to collaborate on Data Science Projects</li>
+    <li>📫 How to reach me: <a href="mailto:madhukomire86@gmail.com">madhukomire86@gmail.com</a></li>
+  </ul>
+  <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
+</div>
 
 <h3 align="left">🛠 Languages and Tools</h3>
 
