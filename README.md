@@ -8,7 +8,7 @@
 <body>
 
 <h1 align="center">Hey Everyone! 
- I'm Madhu<img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="29px"></h1>
+    I'm Madhu <img src="https://github.com/himanshusharma89/himanshusharma89/blob/master/Hi.gif" width="29px"></h1>
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=madhukomire.madhukomire&" />
