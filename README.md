@@ -32,7 +32,7 @@
 <h5 align="center">Data Scientist | Python Developer | Machine Learning & Artificial Intelligence Practitioner | NLP & Big Data Enthusiast</h5>
 <div>
   <ul>
-    <li>📚 I'm currently learning Data Science and AI</li>
+    <li>📚 I'm currently pursuing studies in Data Science and AI</li>
     <li>👀 I’m interested in Data Science and AI Job roles</li>
     <li>👯 I’m looking to collaborate on Data Science Projects</li>
     <li>📫 How to reach me: <a href="mailto:madhukomire86@gmail.com">madhukomire86@gmail.com</a></li>
