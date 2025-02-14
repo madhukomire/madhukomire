@@ -64,11 +64,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" alt="Keras logo" />
   <img width="12" />
 
-  <!-- Natural Language Processing -->
+  <!-- Natural Language Processing 
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/NLTK_Logo.png" height="40" alt="NLTK logo" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Spacy_logo.svg" height="40" alt="spaCy logo" />
   <img width="12" />
+   Natural Language Processing -->
 
   <!-- Computer Vision -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" height="40" alt="OpenCV logo" />
@@ -85,11 +86,12 @@
   <img width="12" />
 
   <!-- Development & Notebook Environments -->
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter Notebook logo" />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" height="40" alt="Google Colab logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="PyCharm logo" />
   <img width="12" />
@@ -103,14 +105,10 @@
   <img width="12" />
 
   <!-- Web Frameworks for Deployment -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="Flask logo" />
 </div>
 
-
-
-
 </body>
-</html><
+</html>
 
 
 <!---
