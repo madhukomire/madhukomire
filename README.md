@@ -24,8 +24,9 @@
   <a href="https://wa.me/917997623595" target="_blank">
     <img src="https://img.shields.io/static/v1?message=WhatsApp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="WhatsApp logo" />
   </a>
-  <a href="https://www.instagram.com/mr_madhu_komire?igsh=M3FubmllM2FnM2pt" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram logo" />
+  <a href="https://t.me/Madhu_Komire" target="_blank">
+   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=26A5E4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Telegram logo" />
+
   </a>
 </div>
 
