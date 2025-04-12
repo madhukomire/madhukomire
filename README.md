@@ -30,7 +30,7 @@
   </a>
 </div>
 
-<h5 align="center">Data Scientist | Python Developer | Machine Learning & Artificial Intelligence Practitioner | NLP & Big Data Enthusiast</h5>
+<h5 align="center">Data Scientist | Data Analyst | Machine Learning & Artificial Intelligence Practitioner | NLP & Big Data Enthusiast</h5>
 <div>
   <ul>
     <li>📚 I'm currently pursuing studies in Data Science and AI</li>
