@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-  <a href="http://www.linkedin.com/in/madhu-komire" target="_blank">
+  <a href="https://www.linkedin.com/in/madhu-komire" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
   </a>
   <a href="mailto:madhukomire86@gmail.com" target="_blank">
@@ -30,13 +30,13 @@
   </a>
 </div>
 
-<h5 align="center">Data Scientist | Data Analyst | Machine Learning & Artificial Intelligence Practitioner | NLP & Big Data Enthusiast</h5>
+<h5 align="center">Python Developer | Data Analyst | Data Scientist | AI/ML Engineer</h5>
 <div>
   <ul>
     <li>📚 I'm currently pursuing studies in Data Science and AI</li>
     <li>👀 I’m interested in Data Science and AI Job roles</li>
     <li>👯 I’m looking to collaborate on Data Science Projects</li>
-    <li>📫 How to reach me: <a href="mailto:madhukomire86@gmail.com">madhukomire86@gmail.com</a></li>
+    <li>📫 How to reach me: <a href="mailto:madhukomire1@gmail.com">madhukomire86@gmail.com</a></li>
   </ul>
   <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 </div>
