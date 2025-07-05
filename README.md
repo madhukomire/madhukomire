@@ -46,7 +46,6 @@
   <!-- Programming Languages -->
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python logo" />
   <img width="12" />
-
   <!-- Libraries for Data Science -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy logo" />
   <img width="12" />
@@ -56,7 +55,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="Scikit-Learn logo" />
   <img width="12" />
-
   <!-- Machine Learning & Deep Learning -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow logo" />
   <img width="12" />
@@ -64,7 +62,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" height="40" alt="Keras logo" />
   <img width="12" />
-
   <!-- Natural Language Processing 
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8c/NLTK_Logo.png" height="40" alt="NLTK logo" />
   <img width="12" />
