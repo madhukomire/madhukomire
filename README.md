@@ -30,7 +30,7 @@
   </a>
 </div>
 
-<h5 align="center">Python Developer | Data Science Learner</h5>
+ <!--<h5 align="center">Python Developer | Data Science Learner</h5>-->
 <div>
   <ul>
     <li>📚 I'm currently pursuing studies in Data Science </li>
