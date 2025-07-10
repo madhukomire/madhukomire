@@ -30,13 +30,13 @@
   </a>
 </div>
 
-<h5 align="center">Python Developer | Data Analyst | Data Scientist | AI/ML Engineer</h5>
+<h5 align="center">Python Developer | Data Science Learner</h5>
 <div>
   <ul>
-    <li>📚 I'm currently pursuing studies in Data Science and AI</li>
-    <li>👀 I’m interested in Data Science and AI Job roles</li>
+    <li>📚 I'm currently pursuing studies in Data Science </li>
+    <li>👀 I’m interested in Data Science Job roles</li>
     <li>👯 I’m looking to collaborate on Data Science Projects</li>
-    <li>📫 How to reach me: <a href="mailto:madhukomire1@gmail.com">madhukomire86@gmail.com</a></li>
+    <li>📫 How to reach me: <a href=>madhukomire1@gmail.com</a></li>
   </ul>
   <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 </div>
@@ -53,9 +53,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="Matplotlib logo" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="Scikit-Learn logo" />
-  <img width="12" />
+  
   <!-- Machine Learning & Deep Learning -->
+   <!-- 
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="40" alt="Scikit-Learn logo" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch logo" />
@@ -69,20 +71,20 @@
   <img width="12" />
    Natural Language Processing -->
 
-  <!-- Computer Vision -->
+  <!-- Computer Vision 
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" height="40" alt="OpenCV logo" />
   <img width="12" />
 
   <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL logo" />
   <img width="12" />
-
-  <!-- Big Data & Cloud -->
+  
+<!-- Big Data & Cloud 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hadoop/hadoop-original.svg" height="40" alt="Hadoop logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="Microsoft Azure logo" />
-  <img width="12" />
-
+  <img width="12" -->
+  
   <!-- Development & Notebook Environments -->
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda logo" />
